@@ -1,12 +1,14 @@
-# Olá 👋, Eu sou Jean Honorio
+# Jean Honorio
 
-🚀 Software Engineer | Python • AWS • GenAI • Kafka • Terraform  
+### Software Engineer | Python • AWS • GenAI • Distributed Systems
 
-🇧🇷 Brazil  
+🇧🇷 Brazil
 
-Construindo soluções escaláveis, sistemas distribuídos e aplicações inteligentes com foco em performance, arquitetura e impacto real.
+Desenvolvedor focado em engenharia de software, arquitetura de sistemas e soluções escaláveis em cloud.
 
-Atualmente atuo com:
+Tenho experiência com desenvolvimento backend, automação, infraestrutura e aplicações orientadas a dados, utilizando tecnologias modernas para construção de produtos performáticos e resilientes.
+
+Atualmente trabalhando e estudando:
 
 - Python
 - SQL
@@ -16,44 +18,50 @@ Atualmente atuo com:
 - GenAI & RAG
 - System Design
 
-💡 Apaixonado por tecnologia, educação, academia e por transformar ideias em produtos digitais.
-
-Também compartilho conhecimento sobre desenvolvimento de software, carreira em tecnologia e inteligência artificial.
+Além do desenvolvimento, compartilho conhecimento sobre tecnologia, carreira e engenharia de software através de conteúdo educativo e projetos pessoais.
 
 ---
 
-## 🌎 Onde me encontrar
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Honorio-0A66C2?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-honocode-181717?style=for-the-badge&logo=github)](https://github.com/honocode)
-
-[![Instagram](https://img.shields.io/badge/Instagram-@jeanhonorio-E4405F?style=for-the-badge&logo=instagram)](SEU_INSTAGRAM)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,aws,postgres,docker,terraform,git,linux" />
+</p>
 
 ---
 
-## ⚡ Tecnologias
+## Focus Areas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📚 Atualmente estudando
-
-- Arquitetura de Software
-- Cloud Computing
-- Inteligência Artificial Generativa
-- Microsserviços
-- Engenharia de Plataforma
+- Backend Development
+- Cloud Architecture
+- Distributed Systems
+- Artificial Intelligence
+- Infrastructure as Code
+- Software Design
 
 ---
 
-## 🎯 Objetivo
+## Connect with me
 
-Evoluir constantemente como engenheiro de software, criando soluções modernas, escaláveis e que gerem valor real para pessoas e empresas.
+<p align="left">
+  <a href="https://github.com/honocode">
+    <img src="https://img.shields.io/badge/GitHub-honocode-181717?style=for-the-badge&logo=github">
+  </a>
 
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Jean%20Honorio-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="SEU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-Jean%20Honorio-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+</p>
+
+---
+
+## Current Goals
+
+- Evoluir em arquitetura de software e cloud engineering
+- Construir produtos escaláveis com IA
+- Contribuir para projetos open source
+- Crescer profissionalmente como Software Engineer
