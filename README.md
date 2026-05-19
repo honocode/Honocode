@@ -53,7 +53,7 @@ Além do desenvolvimento, compartilho conhecimento sobre tecnologia, carreira e 
   </a>
 
   <a href="SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-Jean%20Honorio-E4405F?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-honocode-E4405F?style=for-the-badge&logo=instagram">
   </a>
 </p>
 
