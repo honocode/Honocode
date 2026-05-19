@@ -8,7 +8,7 @@ Desenvolvedor focado em engenharia de software, arquitetura de sistemas e soluç
 
 Tenho experiência com desenvolvimento backend, automação, infraestrutura e aplicações orientadas a dados, utilizando tecnologias modernas para construção de produtos performáticos e resilientes.
 
-Atualmente trabalhando e estudando:
+Atualmente estudando:
 
 - Python
 - SQL
