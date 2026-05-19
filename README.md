@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou Jean Honorio 
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Junior Software Engineer | JavaScript & .NET Specialist**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
