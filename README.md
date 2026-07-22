@@ -1,24 +1,19 @@
-# Olá Mundo! eu sou Jean Honorio,
+Software Developer focused on software engineering, systems architecture, and scalable cloud solutions.
 
-### Software Engineer | Python • AWS • GenAI • Distributed Systems
+I have experience with backend development, automation, infrastructure, and data-driven applications, using modern technologies to build high-performance and resilient products.
 
-🇧🇷 Brazil
+Currently studying:
 
-Desenvolvedor focado em engenharia de software, arquitetura de sistemas e soluções escaláveis em cloud.
+* Python
+* SQL
+* AWS
+* Kafka
+* Terraform
+* GenAI & RAG
+* System Design
 
-Tenho experiência com desenvolvimento backend, automação, infraestrutura e aplicações orientadas a dados, utilizando tecnologias modernas para construção de produtos performáticos e resilientes.
+Beyond development, I also share knowledge about technology, career growth, and software engineering through educational content and personal projects.
 
-Atualmente estudando:
-
-- Python
-- SQL
-- AWS
-- Kafka
-- Terraform
-- GenAI & RAG
-- System Design
-
-Além do desenvolvimento, compartilho conhecimento sobre tecnologia, carreira e engenharia de software através de conteúdo educativo e projetos pessoais.
 
 ---
 
