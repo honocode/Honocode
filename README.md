@@ -17,14 +17,6 @@ Beyond development, I also share knowledge about technology, career growth, and 
 
 ---
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,aws,postgres,docker,terraform,git,linux" />
-</p>
-
----
-
 ## Focus Areas
 
 - Backend Development
